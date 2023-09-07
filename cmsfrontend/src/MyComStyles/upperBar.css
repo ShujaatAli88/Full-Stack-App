@@ -1,0 +1,25 @@
+.name-container
+{
+    width: 80%;
+    height: 200px;
+    background-color: rgb(55, 143, 250);
+    position: fixed;
+    top: 0px;
+}
+
+.logo
+{
+    height: 200px;
+    text-align: left;
+    display: flex;
+}
+
+.name-of-uni
+{
+    padding-top: 70px;
+    padding-left: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
